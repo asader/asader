@@ -1,2 +1,0 @@
-asader
-test
